@@ -57,4 +57,8 @@ export default tseslint.config({
 # sample-template
 
 React Starter Template
+<<<<<<< HEAD
 
+=======
+CEC2-0F26
+>>>>>>> 8170325 (Fresh Template for Projects)
